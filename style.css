@@ -641,10 +641,10 @@ nav {
 } 
 
 .banner {
-    background-color: rgb(125, 40, 174);
+    background-color: rgb(125, 40, 174,0.7);
     color: rgb(237, 233, 239);
     padding: 10px 20px;
-    margin: 20px 0;
+    margin: 150px 0;
     font-family: 'Newfont', sans-serif;
     text-align: center;
     font-size: larger;
